@@ -10,10 +10,13 @@ optimized architectural floor plans and spatial layouts.
   design visualization and project workflows
 
 ## Tech used
-- HTML
-- CSS
-- JavaScript
-(add any other tools/libraries you used — e.g. any AI API, framework, etc.)
+Python
+Streamlit
+Plotly
+Regular Expressions (Regex)
+Basic NLP (Requirement Parsing)
+Rule-Based Validation
+Decision Engine
 
 ## How to run
 1. Clone or download this repository
